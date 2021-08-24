@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-head">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="head" clip-path="url(#clip-head)">
+    <g id="Eyebrow0001" transform="translate(-52.95 -54.173)">
+      <g id="Group_87" data-name="Group 87" transform="translate(111.95 154.173)">
+        <g id="Group_86" data-name="Group 86">
+          <path id="Path_144" data-name="Path 144" d="M144.435,163.361q1.4,1.493,1.517.241-4.07-7.561-14.569-9.392-9.825-.554-19.433,7.128,11.944-6.261,18.4-5.563A22.119,22.119,0,0,1,144.435,163.361Z" transform="translate(-111.95 -154.173)" fill="#020602"/>
+        </g>
+        <path id="Path_145" data-name="Path 145" d="M111.95,161.338q9.608-7.682,19.433-7.128,10.5,1.83,14.569,9.392-.12,1.252-1.517-.241a22.119,22.119,0,0,0-14.087-7.585Q123.894,155.077,111.95,161.338Z" transform="translate(-111.95 -154.173)" fill="none" stroke="#600" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_89" data-name="Group 89" transform="translate(159.148 154.173)">
+        <g id="Group_88" data-name="Group 88">
+          <path id="Path_146" data-name="Path 146" d="M224.519,154.21q-10.5,1.83-14.569,9.392.12,1.252,1.517-.241a22.119,22.119,0,0,1,14.087-7.585q6.454-.7,18.4,5.563Q234.344,153.656,224.519,154.21Z" transform="translate(-209.95 -154.173)" fill="#020602"/>
+        </g>
+        <path id="Path_147" data-name="Path 147" d="M243.952,161.338q-9.608-7.682-19.433-7.128-10.5,1.83-14.569,9.392.12,1.252,1.517-.241a22.119,22.119,0,0,1,14.087-7.585Q232.008,155.077,243.952,161.338Z" transform="translate(-209.95 -154.173)" fill="none" stroke="#600" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
